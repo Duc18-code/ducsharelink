@@ -1,4 +1,4 @@
-script_key = "KEY_HERE" -- script: Ducsharelink.lua
+script_key = "c237476d-a6ed-ba0a-cdce-541fcbffa5448091" -- script: Ducsharelink.lua
 --[[
 
     This script is protected with
