@@ -7,6 +7,7 @@ local Window = Fluent:CreateWindow({
     --táo hub , ducsharelink hub :>
     Title = "Ducsharelink Hub",
     SubTitle = "Version 2",
+    Icon = Image("http://www.roblox.com/asset/?id=18794802606")
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
